@@ -1,0 +1,10 @@
+torch>=2.0.0
+pytorch-lightning>=2.0.2
+transformers>=4.30.0
+datasets>=2.13.1
+turngpt @ git+https://github.com/ErikEkstedt/TurnGPT.git@main
+pandas>=2.0.0
+scikit-learn>=1.3.0
+tqdm>=4.66.0
+matplotlib>=3.7.0
+

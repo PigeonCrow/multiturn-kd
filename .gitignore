@@ -1,0 +1,98 @@
+# Python cache and compiled files
+
+**pycache**/
+\*.py\[cod]
+\*\$py.class
+\*.so
+
+# Virtual environments
+
+.env
+.venv
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Distribution / packaging
+
+build/
+dist/
+\*.egg-info/
+.eggs/
+\*.egg
+\*.whl
+
+# Installer logs
+
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Test and coverage reports
+
+.tox/
+.coverage
+.coverage.\*
+.cache/
+nosetests.xml
+coverage.xml
+\*.cover
+\*.py,cover
+htmlcov/
+
+# Jupyter Notebook checkpoints
+
+.ipynb\_checkpoints/
+
+# PyTorch Lightning checkpoints
+
+checkpoints/
+\*.ckpt
+
+# Model weights and saved states
+
+\*.pt
+\*.pth
+
+# Data files and archives
+
+data/
+\*.parquet
+\*.zip
+
+# Logs and outputs
+
+logs/
+\*.log
+output.txt
+
+# SLURM output files
+
+\*.out
+
+# IDE and editor settings
+
+.vscode/
+.idea/
+\*.sublime-project
+\*.sublime-workspace
+
+# macOS and system files
+
+.DS\_Store
+Thumbs.db
+
+# dotenv and credentials
+
+.env.local
+.env.\*
+
+# Conda configuration
+
+.condarc
+
+# Misc
+
+\*.bak
+\*.tmp
+
